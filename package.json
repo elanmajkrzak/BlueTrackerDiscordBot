@@ -1,0 +1,23 @@
+{
+  "name": "bluetrackerdiscordbot",
+  "version": "1.0.0",
+  "description": "Discord Bot that posts new blue posts from the Overwatch Announcements forum",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elanmajkrzak/BlueTrackerDiscordBot.git"
+  },
+  "author": "elan.majkrzak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elanmajkrzak/BlueTrackerDiscordBot/issues"
+  },
+  "homepage": "https://github.com/elanmajkrzak/BlueTrackerDiscordBot#readme"
+}
