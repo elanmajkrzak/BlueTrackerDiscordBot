@@ -1,5 +1,6 @@
 const config = require('./config.json');
 const Discord = require("discord.js");
+const scraper = require("scraper.js")
 const client = new Discord.Client();
 
 client.login(config.token);
